@@ -1,0 +1,19 @@
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Build artifacts
+/*.tar.gz
+/*.Rcheck/
+inst/doc
+
+# macOS
+.DS_Store
+
+# Large / external data not meant to be committed
+inst/extdata/*.RData
+inst/extdata/*.rda
+!inst/extdata/.gitkeep
