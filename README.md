@@ -119,9 +119,5 @@ this repo):
   ```
 
  
-  over — ask if you want them cleaned up too.
-
-## License
-
-MIT (see `LICENSE`) — change this in `DESCRIPTION`/`LICENSE.md` if you'd
-rather keep the code closed until the paper is published.
+ 
+ 
