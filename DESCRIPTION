@@ -1,13 +1,13 @@
 Package: CSIRWLS
 Type: Package
-Title: Censored Sliced Inverse Regression with Weighted Least Squares
-    Variable Selection (CSIR-WLS)
+Title: Censored Sliced Inverse Regression based on  withWeighted Leverage Scores
+     (CSIR-WLS)
 Version: 0.1.0
 Authors@R: person("Nadia", "Asrir", email = "n.asrir@ump.ac.ma",
     role = c("aut", "cre"))
 Description: Implements CSIR-WLS, a dimension-reduction method for
     censored survival data that combines Censored Sliced Inverse
-    Regression (CSIR) with a Weighted Least Squares (WLS) leverage-score
+    Regression (CSIR) with aWeighted Leverage Scores (WLS) leverage-score
     variable selection step for the high-dimensional setting. Also
     bundles the competing methods used for comparison in the associated
     paper (SIR, Cox, CSIS, DCSIS, SIRS, SIS), simulation-data generators,
